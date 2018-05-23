@@ -1,0 +1,1 @@
+If you need to Audit your Security Groups to check if a specific Rule exists over there, For example, you want to see if there's a rule allow port 80 Allow All, you can use this script to check that and it will return all the security groupos which have the Rule
